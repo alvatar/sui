@@ -1,0 +1,9 @@
+[package]
+name = "Agathon"
+version = "0.0.1"
+
+[dependencies]
+Sui = { local = "../sui/crates/sui-framework" }
+
+[addresses]
+agathon = "0x0"
