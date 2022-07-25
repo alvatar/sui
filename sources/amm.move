@@ -1,3 +1,7 @@
+// TODO: Use native coins (I was unable to figure out yet how to)
+// TODO: Implement withdrawals with shares
+// TODO: Checks
+
 module agathon::amm {
     use sui::id::VersionedID;
     use sui::tx_context::{Self, TxContext};
