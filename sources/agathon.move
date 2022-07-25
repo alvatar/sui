@@ -1,4 +1,4 @@
-// TODO: Use native coins (I was unable to figure out yet how to)
+// TODO: Use native coins (via generics)
 // TODO: Implement withdrawals with shares
 // TODO: Checks
 
